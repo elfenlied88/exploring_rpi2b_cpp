@@ -1,0 +1,6 @@
+build/
+.cache
+bin/
+result
+.direnv/
+compile_commands.json
